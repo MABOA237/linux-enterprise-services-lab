@@ -24,8 +24,8 @@ détection d’intrusion Suricata intégrée à OPNsense.
 
 | Service | Rôle |
 |---|---|
-| OPNsense | Pare-feu, routage, règles de sécurité |
-| Suricata | Détection d’intrusion (IDS/IPS) |
+| OPNsense | Pare-feu|
+| Suricata | Détection d’intrusion (IDS/) |
 | Kea DHCP | Attribution automatique des adresses IP |
 | Samba AD DC | Contrôleur de domaine et authentification |
 | Samba File Server | Partage de fichiers et permissions |
@@ -34,7 +34,7 @@ détection d’intrusion Suricata intégrée à OPNsense.
 | Roundcube | Webmail |
 | Nginx | Reverse proxy / serveur web |
 | Zabbix | Supervision des hôtes et services |
-| Syslog | Centralisation des journaux |
+| Syslog | Centralisation des journaux suricara |
 
 ## Compétences démontrées
 
